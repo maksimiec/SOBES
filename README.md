@@ -44,9 +44,9 @@ When creating this program, I used the following materials:
 - Mosaic Noise
 - Simplex Noise
 - Alternative Fast and Slow Perlin Noise
-- Fast and Slow Billow
-- Fast and Slow Ridged Multifractal
-- Fast and Slow Combined
+- Fast and Slow Billow Noise
+- Fast and Slow Ridged Multifractal Noise
+- Fast and Slow Combined Noise
 - Voronoi Noise
 
 ### Download
