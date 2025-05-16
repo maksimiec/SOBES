@@ -17,7 +17,7 @@ When creating this program, I used the following materials:
 - [The Book of Shaders](https://thebookofshaders.com/11/?lan=ru)
 - [StackOverflow: How to apply blur effect on a bitmap image in C#](https://stackoverflow.com/questions/44827093/how-to-apply-blur-effect-on-a-bitmap-image-in-c)
 
-## Sobes can create:
+## S.O.B.E.S. can create:
 
 - Grayscale
 - Edge
