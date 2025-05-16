@@ -53,6 +53,6 @@ When creating this program, I used the following materials:
 
 ### Download
 
-If you need the `.exe` file, you can download it from the [release section]([link-to-release-section](https://github.com/maksimiec/SOBES/releases/tag/v0.1)) of the repository.
+If you need the `.exe` file, you can download it from the [link-to-release-section](https://github.com/maksimiec/SOBES/releases/tag/v0.1) of the repository.
 
 
