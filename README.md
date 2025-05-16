@@ -5,7 +5,7 @@ I made it to augment images for training neural networks.
 Each pack of edited images saves separatly.
 You can use it freely as you want.
 
-![Interface](SOBES/SOBES.png)
+![Interface](SOBES.png)
 ## Materials Used
 
 When creating this program, I used the following materials:
