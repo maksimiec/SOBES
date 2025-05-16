@@ -2,6 +2,7 @@
 
 This program allows you to apply various custom effects to images in bulk.
 I made it to augment images for training neural networks.
+Each pack of edited images saves separatly.
 You can use it freely as you want.
 
 ## Materials Used
