@@ -57,7 +57,6 @@ If you need the `.exe` file, you can download it from the [release](https://gith
 
 #### Future plans
 
-- Shear
 - Perspective 
 - RGB to BGR
 - Erasing
