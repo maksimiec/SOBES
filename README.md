@@ -55,4 +55,11 @@ When creating this program, I used the following materials:
 
 If you need the `.exe` file, you can download it from the [release](https://github.com/maksimiec/SOBES/releases/tag/v0.1) of the repository.
 
+#### Future plans
 
+-- Shear
+-- Perspective 
+-- RGB to BGR
+-- Erasing
+-- Gaussian blur
+-- Gaussian noise
